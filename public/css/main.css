@@ -1,0 +1,11 @@
+.icon-btn{
+	min-width: 32px;
+}
+.label-bold{
+	font-weight: 500;
+}
+.page-header{
+	box-shadow: 0 1px 4px grey;
+    padding: 10px 0;
+    background-color: #f3f3f3;
+}
